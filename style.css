@@ -26,7 +26,7 @@ body{
     font-weight: 700;
     padding-top: 2px;
     padding-left: 100px;
-
+    
 }
 
 .title{
@@ -106,7 +106,7 @@ li {
 }
 
 .hr{
-    width: 25%;
+    width: 75%;
     margin: 0rem 10rem 0rem 6rem;
 }
 
@@ -117,7 +117,8 @@ li {
     justify-content: center;
     position: absolute;
     bottom: 50px;
-
+    margin: 0 15px 5px 0;
+    margin-right: 0;
 
 }
 
@@ -126,15 +127,17 @@ li {
     height: 50px;
     color: #fff;
     border: 1px solid #fff;
-    display: inline-block;
+    display: inline-flex;
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
-    margin: 0 10px;
+    margin: 0 15px 5px 0;
+    margin-right: 0;
 }
 
 .social li a:hover{
     color: #c99c33;
     background: #fff;
 }
+
 
